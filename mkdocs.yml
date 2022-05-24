@@ -1,0 +1,4 @@
+site_name: Southlands Santa Ana Serve Team Documentation - Sound
+nav:
+    - Home: index.md
+theme: readthedocs
